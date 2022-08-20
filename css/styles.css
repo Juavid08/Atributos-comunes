@@ -1,0 +1,35 @@
+*{
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 50px; 
+ }
+ 
+ body {
+    margin: 10px;
+    border-top: center;
+    padding: 0;
+    background-color: antiquewhite;
+    overflow-x: hidden;
+ }
+ 
+ .title {
+    background-color: rgb(150, 168, 168);
+    padding: 30px;
+    text-align: center;
+ }
+ 
+ .titulo {
+    text-align: center;
+ }
+ 
+ .perro {
+  width: 50%;
+  object-fit: auto;
+  max-height: fit-content;
+ 
+ }
+ 
+ .cierre {   
+    text-align: center;
+    padding: 0;
+ 
+ }
